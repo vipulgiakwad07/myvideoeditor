@@ -1,0 +1,43 @@
+.mid-pane {
+  margin-top: 20px;
+  margin-top: -20px;
+  padding-top: 1px;
+  margin-left: 5px;
+  float: left;
+  /* padding-left: -50px; */
+}
+.mid-pane span {
+  font-weight: bold;
+}
+
+.mid-pane button {
+  /* aligne-item: horizontally; */
+  background-color: white;
+  margin-left: 5px;
+  border-color: transparent;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.low-mid-pane {
+  padding-top: 5px;
+}
+
+.vid-pl {
+  width: 100px;
+  height: 100px;
+}
+
+.mid-pane h1 {
+  margin-right: 100px;
+  margin-bottom: 10px;
+}
+
+.btn-mid {
+  padding-top: 10px;
+  margin-top: 5px;
+}
+
+.mid-pane button:hover {
+  background-color: rgb(80, 80, 238);
+}

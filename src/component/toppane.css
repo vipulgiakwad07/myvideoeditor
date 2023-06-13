@@ -1,0 +1,57 @@
+.top-pane {
+  text-align: horizontal;
+  margin: 5px;
+  margin-bottom: 90px;
+}
+
+.top-left-pane {
+  /* margin-top: 5px; */
+  float: left;
+  /* margin-left: 130px;  new*/
+}
+
+.top-right-pane {
+  float: right;
+  padding-left: 5px;
+  margin-right: 5px;
+  /* margin-right: 2px; */
+}
+
+.top-right-pane .dp-img {
+  padding-right: 5px;
+  border-radius: 50%;
+  text-decoration: none;
+}
+
+.top-right-pane .qu-logo {
+  padding-right: 5px;
+  border-color: transparent;
+  background-color: transparent;
+}
+
+.top-right-pane .bell-logo {
+  border-color: transparent;
+  background-color: transparent;
+}
+
+.btn-up {
+  border-radius: 5px;
+  padding: 8px;
+  margin-right: 5px;
+  border-color: transparent;
+  /* background-color: antiquewhite; */
+  background-color: rgb(250, 216, 129);
+}
+
+.btn-inv {
+  padding: 8px;
+  border-color: transparent;
+  border-radius: 5px;
+}
+
+.btn-up:hover {
+  background-color: rgb(245, 208, 117);
+}
+.btn-inv:hover {
+  background-color: gray;
+}
